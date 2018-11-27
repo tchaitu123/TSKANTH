@@ -4,7 +4,18 @@ h hgvhgvghvg
 hgkkhghgkghkgh
 ,mnbhjbhb,jh,jbhjbhbj
 nmbdvb,hjbbvhjdbhjbjhbjhr
+<<<<<<< HEAD
 fxsfdxfhxfdxdfdfx
 kgh fgvghvggvvg
 bnmbnbnnmnmnmnmnm
 ,bgvdfdhrhesx
+=======
+vjvvvvv
+jvjhvhjjhhjv
+gvvvgjvgjhjvhjhj
+gvkcfhjcgfgvgvgv
+ewgfujbjeknjhdecgjcdegh
+bhjhdchjhjbdchbhjdbhjbhjds
+b,hjb hjbdshbjcdshhj
+hjhjdshbhv
+>>>>>>> feature
